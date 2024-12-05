@@ -28,3 +28,14 @@
 | 24 | Confirmation Rate | Leetcode | <a href="https://leetcode.com/problems/confirmation-rate">Link</a> | [confirmation.sql](confirmation.sql) | ❌ |
 | 25 | Monthly Transactions I  | Leetcode | <a href="https://leetcode.com/problems/monthly-transactions-i">Link</a> | [monthly_trans1.sql](monthly_trans1.sql) | ❌ |
 | 26 | Immediate Food Delivery II | Leetcode | <a href="https://leetcode.com/problems/immediate-food-delivery-ii/">Link</a> | [food2.sql](food2.sql) | ❌ |
+| 27 | Higher Than 75 Marks | Hackerrank | <a href="https://www.hackerrank.com/challenges/more-than-75-marks/problem">Link</a> | [high75.sql](high75.sql) | ❌ |
+| 28 | Revising the Select Query I | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem">Link</a> | [select1.sql](select1.sql) | ❌ |
+| 29 | Revising the Select Query II | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem">Link</a> | [select2.sql](select2.sql) | ❌ |
+| 30 | Select All | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-all-sql/problem">Link</a> | [selectall.sql](selectall.sql) | ❌ |
+| 31 | Select By ID | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-by-id/problem">Link</a> | [select_id.sql](select_id.sql) | ❌ |
+| 32 | Japanese Cities' Attributes | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem">Link</a> | [japanese1.sql](japanese1.sql) | ❌ |
+| 33 | Japanese Cities' Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem">Link</a> | [japanese2.sql](japanese2.sql) | ❌ |
+| 34 | Weather Observation Station 1 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-1/problem">Link</a> | [weather1.sql](weather1.sql) | ❌ |
+| 35 | Weather Observation Station 3 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem">Link</a> | [weather3.sql](weather3.sql) | ❌ |
+| 36 | Weather Observation Station 4 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-4/problem">Link</a> | [weather4.sql](weather4.sql) | ❌ |
+| 37 | Weather Observation Station 6 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem">Link</a> | [weather6.sql](weather6.sql) | ❌ |
