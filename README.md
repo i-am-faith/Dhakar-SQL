@@ -39,3 +39,4 @@
 | 35 | Weather Observation Station 3 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem">Link</a> | [weather3.sql](weather3.sql) | ❌ |
 | 36 | Weather Observation Station 4 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-4/problem">Link</a> | [weather4.sql](weather4.sql) | ❌ |
 | 37 | Weather Observation Station 6 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem">Link</a> | [weather6.sql](weather6.sql) | ❌ |
+| 38 | Sales Executive | Codestudio | <a href="https://www.naukri.com/code360/problems/sales-person_2105462">Link</a> | [sales_exec.sql](sales_exec.sql) | ❌ |
