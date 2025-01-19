@@ -41,3 +41,5 @@
 | 37 | Weather Observation Station 6 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem">Link</a> | [weather6.sql](weather6.sql) | ❌ |
 | 38 | Sales Executive | Codestudio | <a href="https://www.naukri.com/code360/problems/sales-person_2105462">Link</a> | [sales_exec.sql](sales_exec.sql) | ❌ |
 | 39 | Director's Actor | Codestudio | <a href="https://www.naukri.com/code360/problems/director-s-actor_2246916">Link</a> | [actor.sql](actor.sql) | ❌ |
+| 40 | Rank Score | Codestudio | <a href="https://www.naukri.com/code360/problems/rank-scores_2117771">Link</a> | [rank.sql](rank.sql) | ❌ |
+| 41 | Duplicate Emails | Codestudio | <a href="https://www.naukri.com/code360/problems/duplicate-emails_2105465">Link</a> | [duplicate_emails.sql](duplicate_emails.sql) | ❌ | 
