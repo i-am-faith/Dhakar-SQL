@@ -44,3 +44,4 @@
 | 40 | Rank Score | Codestudio | <a href="https://www.naukri.com/code360/problems/rank-scores_2117771">Link</a> | [rank.sql](rank.sql) | ❌ |
 | 41 | Duplicate Emails | Codestudio | <a href="https://www.naukri.com/code360/problems/duplicate-emails_2105465">Link</a> | [duplicate_emails.sql](duplicate_emails.sql) | ❌ | 
 | 42 | NPV Queries | Codestudio | <a href="https://www.naukri.com/code360/problems/npv-queries_2181286">Link</a> | [npv.sql](npv.sql) | ❌ |
+| 43 | IMDb Max Weighted Rating | Codestudio | <a href="https://www.naukri.com/code360/problems/imdb_1755913">Link</a> | [imdb.sql](imdb.sql) | ❌ |
