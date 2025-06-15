@@ -28,20 +28,21 @@
 | 24 | Confirmation Rate | Leetcode | <a href="https://leetcode.com/problems/confirmation-rate">Link</a> | [confirmation.sql](confirmation.sql) | ❌ |
 | 25 | Monthly Transactions I  | Leetcode | <a href="https://leetcode.com/problems/monthly-transactions-i">Link</a> | [monthly_trans1.sql](monthly_trans1.sql) | ❌ |
 | 26 | Immediate Food Delivery II | Leetcode | <a href="https://leetcode.com/problems/immediate-food-delivery-ii/">Link</a> | [food2.sql](food2.sql) | ❌ |
-| 27 | Higher Than 75 Marks | Hackerrank | <a href="https://www.hackerrank.com/challenges/more-than-75-marks/problem">Link</a> | [high75.sql](high75.sql) | ❌ |
-| 28 | Revising the Select Query I | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem">Link</a> | [select1.sql](select1.sql) | ❌ |
-| 29 | Revising the Select Query II | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem">Link</a> | [select2.sql](select2.sql) | ❌ |
-| 30 | Select All | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-all-sql/problem">Link</a> | [selectall.sql](selectall.sql) | ❌ |
-| 31 | Select By ID | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-by-id/problem">Link</a> | [select_id.sql](select_id.sql) | ❌ |
-| 32 | Japanese Cities' Attributes | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem">Link</a> | [japanese1.sql](japanese1.sql) | ❌ |
-| 33 | Japanese Cities' Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem">Link</a> | [japanese2.sql](japanese2.sql) | ❌ |
-| 34 | Weather Observation Station 1 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-1/problem">Link</a> | [weather1.sql](weather1.sql) | ❌ |
-| 35 | Weather Observation Station 3 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem">Link</a> | [weather3.sql](weather3.sql) | ❌ |
-| 36 | Weather Observation Station 4 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-4/problem">Link</a> | [weather4.sql](weather4.sql) | ❌ |
-| 37 | Weather Observation Station 6 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem">Link</a> | [weather6.sql](weather6.sql) | ❌ |
+| 27 | Higher Than 75 Marks | Hackerrank | <a href="https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true">Link</a> | [high75.sql](high75.sql) | ❌ |
+| 28 | Revising the Select Query I | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true">Link</a> | [select1.sql](select1.sql) | ❌ |
+| 29 | Revising the Select Query II | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true">Link</a> | [select2.sql](select2.sql) | ❌ |
+| 30 | Select All | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true">Link</a> | [selectall.sql](selectall.sql) | ❌ |
+| 31 | Select By ID | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true">Link</a> | [select_id.sql](select_id.sql) | ❌ |
+| 32 | Japanese Cities' Attributes | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true">Link</a> | [japanese1.sql](japanese1.sql) | ❌ |
+| 33 | Japanese Cities' Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true">Link</a> | [japanese2.sql](japanese2.sql) | ❌ |
+| 34 | Weather Observation Station 1 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true">Link</a> | [weather1.sql](weather1.sql) | ❌ |
+| 35 | Weather Observation Station 3 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true">Link</a> | [weather3.sql](weather3.sql) | ❌ |
+| 36 | Weather Observation Station 4 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true">Link</a> | [weather4.sql](weather4.sql) | ❌ |
+| 37 | Weather Observation Station 6 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true">Link</a> | [weather6.sql](weather6.sql) | ❌ |
 | 38 | Sales Executive | Codestudio | <a href="https://www.naukri.com/code360/problems/sales-person_2105462">Link</a> | [sales_exec.sql](sales_exec.sql) | ❌ |
 | 39 | Director's Actor | Codestudio | <a href="https://www.naukri.com/code360/problems/director-s-actor_2246916">Link</a> | [actor.sql](actor.sql) | ❌ |
 | 40 | Rank Score | Codestudio | <a href="https://www.naukri.com/code360/problems/rank-scores_2117771">Link</a> | [rank.sql](rank.sql) | ❌ |
 | 41 | Duplicate Emails | Codestudio | <a href="https://www.naukri.com/code360/problems/duplicate-emails_2105465">Link</a> | [duplicate_emails.sql](duplicate_emails.sql) | ❌ | 
 | 42 | NPV Queries | Codestudio | <a href="https://www.naukri.com/code360/problems/npv-queries_2181286">Link</a> | [npv.sql](npv.sql) | ❌ |
 | 43 | IMDb Max Weighted Rating | Codestudio | <a href="https://www.naukri.com/code360/problems/imdb_1755913">Link</a> | [imdb.sql](imdb.sql) | ❌ |
+| 44 | Employee Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true">Link</a> | [emp.sql](emp.sql) | ❌ |
