@@ -47,3 +47,4 @@
 | 43 | IMDb Max Weighted Rating | Codestudio | <a href="https://www.naukri.com/code360/problems/imdb_1755913">Link</a> | [imdb.sql](imdb.sql) | ❌ |
 | 44 | Employee Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true">Link</a> | [emp.sql](emp.sql) | ❌ |
 | 45 | Employee Salary | Hackerrank | <a href="https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true">Link</a> | [emp_sal.sql](emp_sal.sql) | ❌ |
+| 46 | Weather Observation Station 7 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true">Link</a> | [weather7.sql](weather7.sql) | ❌ |
