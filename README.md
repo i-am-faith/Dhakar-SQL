@@ -55,3 +55,4 @@
 | 51 | Weather Observation Station 12 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true">Link</a> | [weather12.sql](weather12.sql) | ❌ |
 | 52 | Type of Triangle | Hackerrank | <a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true">Link</a> | [triangle_type.sql](triangle_type.sql) | ❌ |
 | 53 | Population Census | Hackerrank | <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true">Link</a> | [census.sql](census.sql) | ❌ |
+| 54 | African Cities | Hackerrank | <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">Link</a> | [africa.sql](africa.sql) | ❌ |
