@@ -56,3 +56,4 @@
 | 52 | Type of Triangle | Hackerrank | <a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true">Link</a> | [triangle_type.sql](triangle_type.sql) | ❌ |
 | 53 | Population Census | Hackerrank | <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true">Link</a> | [census.sql](census.sql) | ❌ |
 | 54 | African Cities | Hackerrank | <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">Link</a> | [africa.sql](africa.sql) | ❌ |
+| 55 | Average Population By Continents | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true">Link</a> | [continent_population.sql](continent_population.sql) | ❌ |
