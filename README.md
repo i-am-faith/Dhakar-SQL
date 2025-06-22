@@ -58,3 +58,4 @@
 | 54 | African Cities | Hackerrank | <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">Link</a> | [africa.sql](africa.sql) | ❌ |
 | 55 | Average Population By Continents | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true">Link</a> | [continent_population.sql](continent_population.sql) | ❌ |
 | 56 | Population City 1L | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true">Link</a> | [population1l.sql](population1l.sql) | ❌ |
+| 57 | California District | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Link</a> | [california_district.sql](california_district.sql) | ❌ |
