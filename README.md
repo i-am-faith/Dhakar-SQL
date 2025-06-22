@@ -61,4 +61,4 @@
 | 57 | California District | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Link</a> | [california_district.sql](california_district.sql) | ❌ |
 | 58 | California District 2 | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Link</a> | [california_district2.sql](california_district2.sql) | ❌ |
 | 59 | Floor Average Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Link</a> | [floor_average.sql](floor_average.sql) | ❌ |
-| 60 | 
+| 60 | Japan Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true">Link</a> | [japan_population.sql](japan_population.sql) | ❌ |
