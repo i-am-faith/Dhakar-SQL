@@ -64,3 +64,4 @@
 | 60 | Japan Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true">Link</a> | [japan_population.sql](japan_population.sql) | ❌ |
 | 61 | Population Density Difference | Hackerrank | <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Link</a> | [desnity_difference.sql](desnity_difference.sql) | ❌ |
 | 62 | The Blunder | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true">Link</a> | [salary_digit0.sql](salary_digit0.sql) | ❌ |
+| 63 | Weather Observation Station 2 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Link</a> | [weather2.sql](weather2.sql) | ❌ |
