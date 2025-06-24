@@ -67,3 +67,4 @@
 | 63 | Weather Observation Station 2 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Link</a> | [weather2.sql](weather2.sql) | ❌ |
 | 64 | Weather Observation Station 13 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true">Link</a> | [weather13.sql](weather13.sql) | ❌ |
 | 64 | Weather Observation Station 14 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true">Link</a> | [weather14.sql](weather14.sql) | ❌ |
+| 65 | Weather Observation Station 15 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true">Link</a> | [weather15.sql](weather15.sql) | ❌ |
