@@ -63,3 +63,4 @@
 | 59 | Floor Average Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Link</a> | [floor_average.sql](floor_average.sql) | ❌ |
 | 60 | Japan Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true">Link</a> | [japan_population.sql](japan_population.sql) | ❌ |
 | 61 | Population Density Difference | Hackerrank | <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Link</a> | [desnity_difference.sql](desnity_difference.sql) | ❌ |
+| 62 | The Blunder | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true">Link</a> | [salary_digit0.sql](salary_digit0.sql) | ❌ |
