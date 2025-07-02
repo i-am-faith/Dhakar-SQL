@@ -76,3 +76,4 @@
 | 71 | Weather Observation Station 19 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true">Link</a> | [weather19.sql](weather19.sql) | ❌ |
 | 72 | Draw The Triangle 1 | Hackerrank | <a href="https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true">Link</a> | [triangle1.sql](triangle1.sql) | ❌❌ |
 | 73 | Draw The Triangle 2 | Hackerrank | <a href="https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true">Link</a> | [triangle2.sql](triangle2.sql) | ❌❌ |
+| 74 | Placements | Hackerrank | <a href="https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true">Link</a> | [placements.sql](placements.sql) | ❌ |
