@@ -72,3 +72,4 @@
 | 67 | Weather Observation Station 17 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true">Link</a> | [weather17.sql](weather17.sql) | ❌ |
 | 68 | Top Earners | Hackerrank | <a href="https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true">Link</a> | [top_earners.sql](top_earners.sql) | ❌ |
 | 69 | Binary Tree Nodes | Hackerrank | <a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true">Link</a> | [binary_tree.sql](binary_tree.sql) | ❌ |
+| 70 | Weather Observation Station 18 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true">Link</a> | [weather18.sql](weather18.sql) | ❌ |
