@@ -79,3 +79,4 @@
 | 74 | Placements | Hackerrank | <a href="https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true">Link</a> | [placements.sql](placements.sql) | ❌ |
 | 75 | Weather Observation Station 20 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true">Link</a> | [weather20.sql](weather20.sql) | ❌ |
 | 76 | Weather Observation Station 5 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true">Link</a> | [weather5.sql](weather5.sql) | ❌❌ |
+| 77 | Employees Earning More Than Their Managers | Leetcode | <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/">Link</a> | [emp_mgr.sql](emp_mgr.sql) | ❌ |
