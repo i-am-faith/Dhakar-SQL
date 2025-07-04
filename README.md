@@ -82,3 +82,4 @@
 | 77 | Employees Earning More Than Their Managers | Leetcode | <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/">Link</a> | [emp_mgr.sql](emp_mgr.sql) | ❌ |
 | 78 | Customers Who Never Order | Leetcode | <a href="https://leetcode.com/problems/customers-who-never-order/">Link</a> | [never_order.sql](never_order.sql) | ❌ |
 | 79 | Combine Two Tables | Leetcode | <a href="https://leetcode.com/problems/combine-two-tables/">Link</a> | [combine_tables.sql](combine_tables.sql) | ❌ |
+| 80 | Department Highest Salary | Leetcode | <a href="https://leetcode.com/problems/department-highest-salary/">Link</a> | [dept_highest_sal.sql](dept_highest_sal.sql) | ❌ |
