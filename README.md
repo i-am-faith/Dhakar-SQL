@@ -86,3 +86,4 @@
 | 81 | Group Sold Products By The Date | Leetcode | <a href="https://leetcode.com/problems/group-sold-products-by-the-date/">Link</a> | [listagg.sql](listagg.sql) | ❌❌ |
 | 82 | The Number of Employees Which Report to Each Employee | Leetcode | <a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee">Link</a> | [reporting.sql](reporting.sql) | ❌ |
 | 83 | Triangle Judgement | Leetcode | <a href="https://leetcode.com/problems/triangle-judgement">Link</a> | [triangle_judge.sql](triangle_judge.sql) | ❌ |
+| 84 | Employees Whose Manager Left the Company | Leetcode | <a href="https://leetcode.com/problems/employees-whose-manager-left-the-company">Link</a> | [manager_left.sql](manager_left.sql) | ❌ |
