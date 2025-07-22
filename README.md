@@ -84,3 +84,4 @@
 | 79 | Combine Two Tables | Leetcode | <a href="https://leetcode.com/problems/combine-two-tables/">Link</a> | [combine_tables.sql](combine_tables.sql) | ❌ |
 | 80 | Department Highest Salary | Leetcode | <a href="https://leetcode.com/problems/department-highest-salary/">Link</a> | [dept_highest_sal.sql](dept_highest_sal.sql) | ❌ |
 | 81 | Group Sold Products By The Date | Leetcode | <a href="https://leetcode.com/problems/group-sold-products-by-the-date/">Link</a> | [listagg.sql](listagg.sql) | ❌❌ |
+| 82 | The Number of Employees Which Report to Each Employee | Leetcode | <a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee">Link</a> | [reporting.sql](reporting.sql) | ❌ |
