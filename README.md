@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/studyplan/top-sql-50/">Postgresql</a></h1>
+<h1><a href="https://leetcode.com/studyplan/top-sql-50/">SQL</a></h1>
 
 | SL No. | Problem Name  | Platform           | Link           | Location | Revised |
 |--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|----------|
@@ -87,3 +87,4 @@
 | 82 | The Number of Employees Which Report to Each Employee | Leetcode | <a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee">Link</a> | [reporting.sql](reporting.sql) | ❌ |
 | 83 | Triangle Judgement | Leetcode | <a href="https://leetcode.com/problems/triangle-judgement">Link</a> | [triangle_judge.sql](triangle_judge.sql) | ❌ |
 | 84 | Employees Whose Manager Left the Company | Leetcode | <a href="https://leetcode.com/problems/employees-whose-manager-left-the-company">Link</a> | [manager_left.sql](manager_left.sql) | ❌ |
+| 85 | Market Analysis I | Leetcode | <a href="https://leetcode.com/problems/market-analysis-i/">Link</a> | [market_analysis1.sql](market_analysis1.sql) | ❌ |
