@@ -88,3 +88,4 @@
 | 83 | Triangle Judgement | Leetcode | <a href="https://leetcode.com/problems/triangle-judgement">Link</a> | [triangle_judge.sql](triangle_judge.sql) | ❌ |
 | 84 | Employees Whose Manager Left the Company | Leetcode | <a href="https://leetcode.com/problems/employees-whose-manager-left-the-company">Link</a> | [manager_left.sql](manager_left.sql) | ❌ |
 | 85 | Market Analysis I | Leetcode | <a href="https://leetcode.com/problems/market-analysis-i/">Link</a> | [market_analysis1.sql](market_analysis1.sql) | ❌ |
+| 86 | Rank Scores | Leetcode | <a href="https://leetcode.com/problems/rank-scores/">Link</a> | [rank_scores.sql](rank_scores.sql) | ❌ |
