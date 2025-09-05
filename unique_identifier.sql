@@ -1,4 +1,3 @@
--- Write your PostgreSQL query statement below
-SELECT a.unique_id , b.name FROM EmployeeUNI AS a
-RIGHT JOIN Employees AS b
-ON a.id = b.id;
+/* Write your PL/SQL query statement below */
+SELECT u.unique_id , e.name FROM EmployeeUNI u
+RIGHT JOIN Employees e ON u.id = e.id;
