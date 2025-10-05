@@ -21,7 +21,7 @@
 | 17 | Students and Examinations | Leetcode | <a href="https://leetcode.com/problems/students-and-examinations">Link</a> | [exams_student.sql](exams_student.sql) | ✅ |
 | 18 | Average Selling Price | Leetcode | <a href="https://leetcode.com/problems/average-selling-price">Link</a> | [average_sale.sql](average_sale.sql) | ❌❌ |
 | 19 | Percentage Of Users | Leetcode | <a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest">Link</a> | [percentage.sql](percentage.sql) | ❌ |
-| 20 | Biggest Single Number | Leetcode | <a href="https://leetcode.com/problems/biggest-single-number/submissions/1339778105">Link</a> | [big_single.sql](big_single.sql) | ❌ |
+| 20 | Biggest Single Number | Leetcode | <a href="https://leetcode.com/problems/biggest-single-number/submissions/1339778105">Link</a> | [big_single.sql](big_single.sql) | ✅ |
 | 21 | Query Quality and Percentage | Leetcode | <a href="https://leetcode.com/problems/queries-quality-and-percentage">Link</a> | [quality%.sql](quality%.sql) | ❌ |
 | 22 | Average Time For Processor | Leetcode | <a href="https://leetcode.com/problems/average-time-of-process-per-machine">Link</a> | [processor.sql](processor.sql) | ❌ |
 | 23 | Manager With Five Reports | Leetcode | <a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports">Link</a> | [manager5.sql](manager5.sql) | ❌❌ |
